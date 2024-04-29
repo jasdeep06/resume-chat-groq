@@ -1,0 +1,9 @@
+{
+  "1": "Digital representation of images",
+  "2": "Motivation behind Convolutional Neural Networks (CNNs)",
+  "3": "Working of a filter in CNNs",
+  "4": "The structure and components of CNNs",
+  "5": "Trainable parameters in CNNs",
+  "6": "Padding in CNNs",
+  "7": "Pooling in CNNs"
+}

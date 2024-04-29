@@ -1,0 +1,18 @@
+{
+  "1": "Introduction to Neural Stacks",
+  "2": "Explanation of the paper 'Learning to transduce with unbounded memory'",
+  "3": "Sequence Reversal Task using Neural Stacks",
+  "4": "Implementation of Neural Stacks in Python and Numpy",
+  "5": "Future implementation plans in Tensorflow",
+  "6": "Overview of Recurrent Neural Networks (RNNs) and their limitations",
+  "7": "Introduction to Long Short Term Memory (LSTM) cells",
+  "8": "The concept of unbounded memory in neural networks",
+  "9": "The principle of Last-in-first-out (LIFO) in traditional stacks",
+  "10": "Making traditional stacks differentiable for network training",
+  "11": "Implementation details of Neural Stacks",
+  "12": "The concept of value matrix and strength vector in Neural Stacks",
+  "13": "Key formulas for implementing Neural Stacks",
+  "14": "Python code examples for Neural Stack operations",
+  "15": "Read operation in Neural Stacks",
+  "16": "Practical demonstration of Neural Stacks with code snippets"
+}

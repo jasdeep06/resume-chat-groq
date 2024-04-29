@@ -1,0 +1,16 @@
+{
+  "1": "Introduction to Backpropagation",
+  "2": "Alternatives to Backpropagation",
+  "3": "Importance of Understanding Backpropagation",
+  "4": "Problems Addressed by Backpropagation",
+  "5": "Basic Case Study: Node System",
+  "6": "Method 1: Randomly Increasing Input Values",
+  "7": "Method 2: Increasing Output via Derivatives",
+  "8": "Derivative Explanation and Use",
+  "9": "Numeric vs Analytical Gradient Calculation",
+  "10": "Analytical Gradient Method",
+  "11": "Geometrical Interpretation of Derivatives",
+  "12": "Case Studies on Function and Derivative Relationship",
+  "13": "Direction and Magnitude in Derivative Updates",
+  "14": "Adjustment of Step Size in Derivative Approach"
+}

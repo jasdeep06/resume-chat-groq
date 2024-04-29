@@ -1,0 +1,10 @@
+{
+  "1": "Introduction to TensorFlow",
+  "2": "TensorFlow's Computation Graph",
+  "3": "Tensors and Operations",
+  "4": "Session and InteractiveSession",
+  "5": "Computation Graph Explanation",
+  "6": "TensorFlow Variables",
+  "7": "Placeholders and Feed Dictionaries",
+  "8": "Linear Regression Implementation in TensorFlow"
+}

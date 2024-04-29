@@ -1,0 +1,12 @@
+{
+  "1": "Introduction to Backpropagation",
+  "2": "Applying Chain Rule in Complex Systems",
+  "3": "Practical Example: Updating Values Using Sigmoid Function",
+  "4": "Understanding Update Rules and Total Derivative",
+  "5": "Derivative of Sigmoid Function",
+  "6": "Python Implementation of Backpropagation with Sigmoid Function",
+  "7": "Extending Backpropagation to a More Complex System with Multiple Inputs",
+  "8": "Calculating Derivatives in a Multi-input System",
+  "9": "Python Implementation of Backpropagation in a Complex System",
+  "10": "Conclusion and Next Steps into Applying Backpropagation to Neural Networks"
+}

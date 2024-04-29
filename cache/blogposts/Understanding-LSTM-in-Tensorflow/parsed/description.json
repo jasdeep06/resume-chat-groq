@@ -1,0 +1,15 @@
+{
+  "1": "Introduction to LSTM",
+  "2": "MNIST dataset overview",
+  "3": "Significance of MNIST for LSTM implementation",
+  "4": "Implementation outline for LSTM with MNIST",
+  "5": "Recurrent Neural Network (RNN) basics",
+  "6": "Understanding and interpreting LSTM cells in TensorFlow",
+  "7": "Formatting inputs for TensorFlow RNNs",
+  "8": "Static RNN in TensorFlow",
+  "9": "Preparing the MNIST dataset for LSTM",
+  "10": "Defining the LSTM network architecture",
+  "11": "Loss, optimizer, and accuracy definitions",
+  "12": "Training and evaluating the LSTM model",
+  "13": "Test accuracy and conclusions"
+}

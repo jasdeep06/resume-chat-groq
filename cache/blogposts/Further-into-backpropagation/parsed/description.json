@@ -1,0 +1,14 @@
+{
+  "1": "Introduction to backpropagation in neural networks",
+  "2": "Structure of a two-layered neural network",
+  "3": "Input layer and output layer connection via weights",
+  "4": "Basic explanation on how neural networks work",
+  "5": "Objective of minimizing the cost function in neural networks",
+  "6": "Explanation of update rules for weights in a neural network",
+  "7": "Forward propagation process",
+  "8": "Implementation of backpropagation with matrix representation of input data",
+  "9": "Derivation of gradients during backpropagation",
+  "10": "Matrix form representation in backpropagation calculations",
+  "11": "Python example to implement backpropagation",
+  "12": "Insight into the decrease of cost function through backpropagation"
+}

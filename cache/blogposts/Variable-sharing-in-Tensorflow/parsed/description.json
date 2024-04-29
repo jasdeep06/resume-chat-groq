@@ -1,0 +1,12 @@
+{
+  "1": "Introduction to variable sharing in Tensorflow",
+  "2": "Declaring variables in Tensorflow",
+  "3": "Variable naming and organization in Tensorflow computation graphs",
+  "4": "Concept of namespaces and variable scopes for organizing variables",
+  "5": "Sharing variables across different layers in a Tensorflow model",
+  "6": "Implementing variable sharing using tf.variable_scope() and tf.get_variable()",
+  "7": "Setting the reuse flag for variable sharing within scopes",
+  "8": "Examples of variable naming within nested scopes",
+  "9": "Handling variable reusability with reuse flag in tf.get_variable()",
+  "10": "Difference between tf.variable_scope and tf.name_scope and their combined usage"
+}

@@ -1,0 +1,13 @@
+{
+  "1": "Introduction to backpropagation",
+  "2": "Understanding the update rule in neural networks",
+  "3": "Scaling neural networks: Introducing nested nodes",
+  "4": "Python representation of a simple neural network",
+  "5": "Objective of manipulating input values",
+  "6": "Deriving update rules for neural network parameters",
+  "7": "Introduction to analytical gradients",
+  "8": "Calculating derivatives for nested node systems",
+  "9": "Applying the chain rule in backpropagation",
+  "10": "Python implementation of the backpropagation update rules",
+  "11": "Explanation and intuition behind backpropagation"
+}
